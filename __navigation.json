@@ -1,0 +1,40 @@
+{
+  "Guidelines": [
+    "Overview",
+    "Design principles",
+    "Code standards",
+    "Accessibility",
+    "Navigation",
+    "Writing",
+    "Images - files sizes",
+    "Video - file sizes",
+    "Browser support"
+  ],
+  "Styles": [
+    "Overview",
+    "Color",
+    "Typography",
+    "Image styles",
+    "Video styles",
+    "Animation"
+  ],
+  "Components": [
+    "Tiles and cards",
+    "Buttons",
+    "Charts and graphs",
+    "Form controls",
+    "Headers and footers",
+    "Icons",
+    "Tabs",
+    "Accordions",
+    "Lists",
+    "Alerts and notifications",
+    "Tooltips",
+    "Breadcrumbs",
+    "Tables",
+    "Text"
+  ],
+  "Page templates": [],
+  "Tools": []
+
+}
